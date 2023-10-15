@@ -1,0 +1,1 @@
+small solidity project
